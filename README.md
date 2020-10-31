@@ -1,5 +1,5 @@
 # Youtube_Video_Downloader
-A video downloader that is built in python3 with its GUI interface built using tkinter that is able to download any youtube video in several available qualities.
+A video downloader that is built in python3 with its GUI interface built using tkinter that is able to download any youtube video that has good quality e.g. songs, tutorials etc, in several available qualities.
 
 ## Dependencies
 * python==3.6.9
