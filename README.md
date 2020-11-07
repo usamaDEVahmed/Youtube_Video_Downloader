@@ -5,6 +5,8 @@ A video downloader that is built in python3 with its GUI interface built using t
 * python==3.6.9
 * pytube==9.6.4
 * validator-collection==1.5.0
+* ffmpeg==3.4.8
+
 
 ## Install pytube
 `pip3 install git+https://github.com/nficano/pytube@eec6f6481e6b68840142c94d464d00cbacfcd6aa`
